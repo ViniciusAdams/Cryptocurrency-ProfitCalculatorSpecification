@@ -1,0 +1,2 @@
+# Cryptocurrency-ProfitCalculatorSpecification
+Cryptocurrency Profit Calculator Specification
